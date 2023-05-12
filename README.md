@@ -1,6 +1,7 @@
 # Portfolio
 
-A simple dummy portfolio website for training mainly using html, css, javascript.
+A simple dummy portfolio website created for The Code8 Projects team mainly using html, css, javascript, bootstrap.
+This sample portfolio website will be used by Code8 Team as an example to teach students about frontend technologies in web development.
 
 ![image](https://user-images.githubusercontent.com/112871361/211355618-508df4ce-4cb1-4251-87a0-ca1188e7793b.png)
 
